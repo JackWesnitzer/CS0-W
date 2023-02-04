@@ -7,8 +7,9 @@
         /console/monitor.
 """
 
-print('   |\\_/|   	**********************    	    (\\_/)  ')
+print('   |\\_/|   	*********************************   (\\_/)  ')
 print(" / @   @ \\  	*           ASCII ART LAB    	*  (='.'=) ")
-print("( >  0 <  )     *         By: Jack Wesnitzer    *")
-
-#FIXME: finish the rest of the art (80 points)
+print('''( >  0  < )     *         By: Jack Wesnitzer    *  (")_(")''')
+print("   >>x<<	*	     CSCI 110	        *")
+print("  /  O  \\ 	*********************************")
+#Boom. Nailed it.
