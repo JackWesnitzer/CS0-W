@@ -23,5 +23,5 @@ ________________________________________________________________________________
 | Description: | "ANSCII Art" |
 | Due Date: | 2/7/23 |
 | Status: | In Progress |
-| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/ASCII_Art |
 | Notes: | In Progress|
