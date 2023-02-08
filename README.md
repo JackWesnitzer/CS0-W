@@ -22,6 +22,6 @@ ________________________________________________________________________________
 | Name: | ASCII Art |
 | Description: | "ANSCII Art" |
 | Due Date: | 2/7/23 |
-| Status: | In Progress |
+| Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/ASCII_Art |
-| Notes: | In Progress|
+| Notes: | Completed |
