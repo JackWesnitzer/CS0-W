@@ -25,3 +25,13 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/ASCII_Art |
 | Notes: | Completed |
+
+## Lab #2
+| Name | Value |
+| --- | --- |
+| Name: | Triangles Program |
+| Description: | "Area and Perimeter of a Triangle" |
+| Due Date: | 2/14/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/Lab2-triangles |
+| Notes: | Completed |
