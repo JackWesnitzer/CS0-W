@@ -35,3 +35,18 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/Lab2-triangles |
 | Notes: | Completed |
+
+_______________________________________________________________________________________________________________
+
+# KATTIS
+
+## Kattis Assignment #1
+
+| Name | Value |
+| --- | --- |
+| Name: | Buka |
+| Description: | "Kattis Input and Output Problem" |
+| Due Date: | 2/8/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/CSCI0_spring23-020123/kattis/kattis/buka |
+| Notes: | Completed |
