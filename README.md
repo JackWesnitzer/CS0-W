@@ -48,5 +48,5 @@ ________________________________________________________________________________
 | Description: | "Kattis Input and Output Problem" |
 | Due Date: | 2/8/23 |
 | Status: | Completed |
-| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/CSCI0_spring23-020123/kattis/kattis/buka |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/kattis |
 | Notes: | Completed |
