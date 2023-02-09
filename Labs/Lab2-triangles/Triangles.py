@@ -22,7 +22,7 @@ print ("side2 = ", side2)
 print ("side3 = ", side3)
 
 if (side1+side2) < side3 or (side3+side2) < side2 or (side3+side2) < side1:
-    print ("invalid triangle")
+    print ("invalid triangle.")
 else:
     perimeter = side1+side2+side3
     semi_perimeter = perimeter/2
