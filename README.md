@@ -50,3 +50,29 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/kattis |
 | Notes: | Completed |
+
+## Kattis Assignment #2
+
+| Name | Value |
+| --- | --- |
+| Name: | Digit Swap |
+| Description: | "Kattis split input. swap digits" |
+| Due Date: | 2/10/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Kattis/kattis |
+| Notes: | Completed |
+
+_______________________________________________________________________________________________________________
+
+#Assignments
+
+## Assignment #1
+
+| Name | Value |
+| --- | --- |
+| Name: | stdio |
+| Description: | "Standard input and output playing cards" |
+| Due Date: | 2/13/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/stdio |
+| Notes: | Completed |
