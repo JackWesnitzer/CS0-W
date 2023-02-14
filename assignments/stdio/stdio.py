@@ -44,3 +44,14 @@ print("|      A |")
 print(" ========")
 
 print("Ace of Clubs")
+
+print(" ========")
+print("| A      |")
+print("|   /\\   |")
+print("|  /  \\  |")
+print("| (_  _) |")
+print("|   /\\   |")
+print("|      A |")
+print(" ========")
+
+print("Ace of Spades")
