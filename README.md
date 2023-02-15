@@ -62,6 +62,16 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Kattis/kattis |
 | Notes: | Completed |
 
+## Kattis Assignment #3
+
+| Name | Value |
+| --- | --- |
+| Name: | Spavanac |
+| Description: | "print out a new time stamp for 45-minutes earlier in 24 hr notation" |
+| Due Date: | 2/15/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Kattis/kattis |
+| Notes: | Completed |
 _______________________________________________________________________________________________________________
 
 # ASSIGNMENTS
