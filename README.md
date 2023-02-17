@@ -36,6 +36,16 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/Lab2-triangles |
 | Notes: | Completed |
 
+## Lab #3
+| Name | Value |
+| --- | --- |
+| Name: | Slope, Intercept, and Midpoint |
+| Description: | "Calculating slope, y-intercept and midpoint with functions" |
+| Due Date: | 2/14/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab3_functions/Slope_intercept_midpoint.py |
+| Notes: | Completed |
+
 _______________________________________________________________________________________________________________
 
 # KATTIS
