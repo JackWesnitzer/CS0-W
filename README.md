@@ -82,6 +82,17 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Kattis/kattis |
 | Notes: | Completed |
+
+## Kattis Assignment #4
+
+| Name | Value |
+| --- | --- |
+| Name: | FizzBuzz |
+| Description: | "print numbers 1 to N, except if the number is divisible by X, print "Fizz" if it's divisible by Y. print "Buzz", if it's divisible by both, print "FizzBuzz"|
+| Due Date: | 2/17/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Kattis/kattis/FizzBuzz.py |
+| Notes: | Completed |
 _______________________________________________________________________________________________________________
 
 # ASSIGNMENTS
