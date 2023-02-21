@@ -1,9 +1,9 @@
 ###
 # Functions Lab
-# Updated By: Jack K. Neckels-Wesnitzer
+# Updated By: Jack K. Neckels-Wesnitzer -fixed
 #
 # CSCI 110
-# Date: 2/15/23
+# Date: 2/15/23 -fixed
 #
 # Playing with functions and variables scopes.
 # There are 10 FIXMEs each worth 10 points!
@@ -13,7 +13,7 @@
 someName = "Bill Gates"  # someName is global variable
 
 # FIXME3 - Assign your name to myName variable
-myName = "Jack"
+myName = "Jack" #fixed#
 # myName is a global variable
 
 def printHello():
@@ -66,7 +66,9 @@ def convertTime(seconds):
     sec = seconds % 60
     #seconds = seconds - m*60
     print("{} seconds = {} hours, {} minutes, {} seconds".format(seconds, hour, m, sec))
+    print()
 
+    pass
 
 def findSeconds(hours):
     """
@@ -76,23 +78,28 @@ def findSeconds(hours):
     """
     # FIXME4 convert hours into seconds and update seconds variable
     # Hint: there are 3600 seconds in 1 hour
-    seconds = 0
-    return seconds
+    
+    seconds = hours*3600 
+    
+    print(f"hours = {hours}, seconds = {seconds}")
 
+    pass
+    
 def testFunctions():
     # test1 : # for 1 hour == 3600 seconds
     assert(findSeconds(1) == 3600)
+    assert(findSeconds(2) == 7200)
+    assert(findSeconds(3) == 10,800)
+    assert(findSeconds(4) == 14,400)
     # FIXME5 - write 3 more tests cases for findSeconds function
-
-    print('all test cases passed...')
-
 
 # FIXME6: call printHello function - #fixed#
 printHello()
+print()
 
-
-# FIXME7 - call printHelloTwice function
-
+# FIXME7 - call printHelloTwice function - #fixed
+printHelloTwice()
+print()
 
 greetName(someName)  # calling function passing variable as argument
 greetName("Larry Page")  # calling function passing literal value as argument
@@ -100,12 +107,15 @@ greetName("Larry Page")  # calling function passing literal value as argument
 # call meetAndGreet function
 meetAndGreet()
 
-
-# call function convertTime passing proper argument
+# call function convertTime passing proper argument - #fixed#
 convertTime(60)
 
-# FIXME8 - Call converTime function passing 3600 as seconds
+# FIXME8 - Call converTime function passing 3600 as seconds - #fixed#
+hours = int(input('Enter a number of hours: '))
+findSeconds(hours)
 
 # FIXME9 - Call converTime function passing 3661 as seconds
 
 # FIXME10 - Call testFunctions
+testFunctions
+print('all test cases passed...')
