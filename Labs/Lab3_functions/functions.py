@@ -115,7 +115,8 @@ hours = int(input('Enter a number of hours: '))
 findSeconds(hours)
 
 # FIXME9 - Call converTime function passing 3661 as seconds
-
+#I didn't understand what you meant by this#
 # FIXME10 - Call testFunctions -#fixed#
 testFunctions
 print('all test cases passed...')
+#I assume this is what you wanted?#
