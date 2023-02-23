@@ -66,7 +66,7 @@ def convertTime(seconds):
     sec = seconds % 60
     #seconds = seconds - m*60
     print("{} seconds = {} hours, {} minutes, {} seconds".format(seconds, hour, m, sec))
-    print()
+    print() #print empty line
 
     pass
 
@@ -95,11 +95,11 @@ def testFunctions():
 
 # FIXME6: call printHello function - #fixed#
 printHello()
-print()
+print() #print empty line
 
 # FIXME7 - call printHelloTwice function - #fixed
 printHelloTwice()
-print()
+print() #print empty line
 
 greetName(someName)  # calling function passing variable as argument
 greetName("Larry Page")  # calling function passing literal value as argument
@@ -115,8 +115,11 @@ hours = int(input('Enter a number of hours: '))
 findSeconds(hours)
 
 # FIXME9 - Call converTime function passing 3661 as seconds
+
 #I didn't understand what you meant by this#
-# FIXME10 - Call testFunctions -#fixed#
-testFunctions
+
+# FIXME10 - Call testFunctions 
+testFunctions()
+#not sure about this either#
+
 print('all test cases passed...')
-#I assume this is what you wanted?#
