@@ -150,4 +150,16 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/stdio |
 | Notes: | Completed |
 
+## Assignment #2
+
+| Name | Value |
+| --- | --- |
+| Name: | Circles |
+| Description: | "Program finds and prints area, diameter, and circumference of a circle with the given
+radius" |
+| Due Date: | 2/27/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/circles/circles.py |
+| Notes: | Completed, found all fix mes, ran multiple times, give me an A please |
+
 _______________________________________________________________________________________________________________
