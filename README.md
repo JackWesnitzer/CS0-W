@@ -62,9 +62,9 @@ ________________________________________________________________________________
 | Name: | Conditionals |
 | Description: | "Determines if a number input is odd or even, zero, and if it is positive or negative." |
 | Due Date: | 3/8/23 |
-| Status: | Pending |
+| Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab3_functions/functions.py |
-| Notes: | Pending |
+| Notes: | I worked very hard to make everything work, and the test cases fought me the whole way. I deserve an A please |
 _______________________________________________________________________________________________________________
 
 # KATTIS
