@@ -161,4 +161,14 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/circles/circles.py |
 | Notes: | Completed, found all fix mes, ran multiple times, give me an A please |
 
+## Assignment #3
+
+| Name | Value |
+| --- | --- |
+| Name: | Functions Calculator |
+| Description: | "Simple calculator using functions and unit testing|
+| Due Date: | 2/27/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Simple_calc_Functions/Simple_calc_functions |
+| Notes: | does all required functions, passes all test cases. |
 _______________________________________________________________________________________________________________
