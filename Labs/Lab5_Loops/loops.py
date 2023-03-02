@@ -69,12 +69,22 @@ def clearScreen():
         os.system('clear')
 
 def main():
-    # FIXME7 add a loop to make the program to continue to run until the user wants to quit
+    
     # FIXME8 call clearScreen function to clear the screen for each round of the loop
+    #clearScreen()
     clearScreen()
 
-    print('Program prints geometric shapes of given height with *')
-    height = int(input('Please enter the height of the shape: '))
+    # FIXME9 - #fixed#
+    # prompt user to enter y/Y to continue anything else to quit
+
+    print('Program prints geometric shapes of given height with * ...')
+    ans = input('Would you like to continue? [y/n} ') 
+    if ans == 'y':
+        height = int(input('Please enter the height of the shape: '))
+    if ans == 'n':
+        print('Goodbye!')
+        sys.exit
+
     # call printTriangle function passing user entered height
     printTriangle(height)
 
@@ -88,12 +98,17 @@ def main():
     # Manually test the function
     printSquare(height)
 
-    # FIXME9
-    # prompt user to enter y/Y to continue anything else to quit
+    # FIXME7 add a loop to make the program to continue to run until the user wants to quit 
 
+    answer = input("Would you like to check another number? Enter y to continue; anything else to quit: ")
+    if answer != 'y':
+        print('Thanks for using the program!')
+        sys.exit()
+
+    # FIXME8 call clearScreen function to clear the screen for each round of the loop
+    
     # FIXME10
     # Use conditional statements to break the loop or continue in the loop
-
 
 if __name__ == "__main__":
     main()
