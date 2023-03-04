@@ -60,11 +60,21 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: | Conditionals |
-| Description: | "Determines if a number input is odd or even, zero, and if it is positive or negative." |
-| Due Date: | 3/8/23 |
+| Description: | "Program prints geometric shapes of given height with * using loops." |
+| Due Date: | 3/24/23 |
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab3_functions/functions.py |
 | Notes: | I worked very hard to make everything work, and the test cases fought me the whole way. I deserve an A please |
+
+## Lab #6
+| Name | Value |
+| --- | --- |
+| Name: | Loops |
+| Description: | "Determines if a number input is odd or even, zero, and if it is positive or negative." |
+| Due Date: | 3/8/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab5_Loops/loops.py |
+| Notes: | All "FIXMES" done, tested several times. |
 _______________________________________________________________________________________________________________
 
 # KATTIS
