@@ -1,9 +1,9 @@
 """
 Lab - String
-By: FIXME0
+By: Jack K. Neckels-Wesnitzer
 
 CSCI 110
-Date: FIXME0
+Date: 3/7/23
 
 Program prompts user to enter a phrase and tells the user various properties about the phrase.
 """
@@ -55,14 +55,20 @@ def hasUpperCase(phrase):
 
 
 def hasDigit(phrase):
-    # FIXME1: return True if phrase has at least 1 digit, false otherwise
-    pass
+    # FIXME1: return True if phrase has at least 1 digit, false otherwise - #FIXED#
+    for ch in phrase:
+        if ch.isdigit():
+            return True
+    return False
 
 
 def hasSymbol(phrase):
-    # FIXME2: return True if phrase has at least one of these symbols: ~!@#$%
+    # FIXME2: return True if phrase has at least one of these symbols: ~!@#$% - #FIXED#
     # return False otherwise
-    pass
+    for ch in phrase:
+        if ch == '~' or ch == '!' or ch == '@' or ch == '#' or ch == '$' or ch == '%':
+            return True
+    return False
 
 
 def main():
@@ -70,6 +76,10 @@ def main():
 
     while True:
         phrase = input("Enter a word or phrase: ")
+
+        if phrase == 'test':
+            test()
+            return
 
         if isReversible(phrase):
             print("{} is reversible!".format(phrase))
@@ -83,13 +93,25 @@ def main():
         else:
             print('{} does not have an upper case character.'.format(phrase))
 
-        # FIXME3
+        # FIXME3 - #FIXED#
+        if hasLowerCase(phrase):
+            print('{} has a lower case character.'.format(phrase))
+        else:
+            print('{} does not have a lower case character.'.format(phrase))
         # print if the phrase has a lower case character by calling the proper function
 
-        # FIXME4
+        # FIXME4 - #FIXED#
+        if hasDigit(phrase):
+            print('{} has a digit as one or more character.'.format(phrase))
+        else:
+            print('{} does not have a digit as one or more character.'.format(phrase))
         # print if the phrase has a digit by calling the proper function
 
-        # FIXME5
+        # FIXME5 - #FIXED#
+        if hasSymbol(phrase):
+            print('{} has a symbol as one or more character.'.format(phrase))
+        else:
+            print('{} does not have a symbol as one or more character'.format(phrase))
         # print if the phrase has a symbol by calling the proper function
 
         ans = input('Want to continue? [y/n]: ')
