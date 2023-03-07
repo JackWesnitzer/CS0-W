@@ -71,10 +71,20 @@ ________________________________________________________________________________
 | --- | --- |
 | Name: | Loops |
 | Description: | "Determines if a number input is odd or even, zero, and if it is positive or negative." |
-| Due Date: | 3/8/23 |
+| Due Date: | 3/24/23 |
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab5_Loops/loops.py |
 | Notes: | All "FIXMES" done, tested several times. |
+
+## Lab #7
+| Name | Value |
+| --- | --- |
+| Name: | String Lab |
+| Description: | "Program to play with various properties and methods of string data type in Python." |
+| Due Date: | 3/10/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab6_Strings/stringlab.py |
+| Notes: | All "FIXMES" done, tested manually, test function shows all test cases passsed. |
 _______________________________________________________________________________________________________________
 
 # KATTIS
