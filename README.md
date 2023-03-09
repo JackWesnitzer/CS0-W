@@ -186,9 +186,20 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: | Functions Calculator |
-| Description: | "Simple calculator using functions and unit testing|
+| Description: | "Simple calculator using functions and unit testing"|
 | Due Date: | 2/27/23 |
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Simple_calc_Functions/Simple_calc_functions |
 | Notes: | does all required functions, passes all test cases. |
+
+## Assignment #4
+
+| Name | Value |
+| --- | --- |
+| Name: | Conditionals |
+| Description: | "Python program that computes certain values such as sum, product, max, min and average of any 5 given numbers"|
+| Due Date: | 3/8/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Conditionals/conditionals.py |
+| Notes: | performs all required calculations, runs all functions in main, passes all test cases. |
 _______________________________________________________________________________________________________________
