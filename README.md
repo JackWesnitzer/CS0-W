@@ -202,4 +202,15 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Conditionals/conditionals.py |
 | Notes: | performs all required calculations, runs all functions in main, passes all test cases. |
+
+## Assignment #5
+
+| Name | Value |
+| --- | --- |
+| Name: | Loop Guess The Number Program |
+| Description: | "Design and implement "Guess the Number" game"|
+| Due Date: | 3/15/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Loops_Guess_The_Number/loop_guess_the_number.py |
+| Notes: | Met most requirements (85 pts), updated readme (10 pts), tested the program many times, (bonus 5 pts for continue/quit, but no stat display) total = 100 pts |
 _______________________________________________________________________________________________________________
