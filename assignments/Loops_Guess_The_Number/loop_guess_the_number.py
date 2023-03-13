@@ -1,13 +1,5 @@
 import random
 
-print("Welcome to the -- Guess The Number -- game!")
-
-name = input('What is your name?: ')
-
-print('Hello {}.'.format(name))
-print('I am thinking of a number between 1 and 20.')
-print('You get 6 tries to guess the number.')
-
 def generator():
     return random.randint(1,20)
 
@@ -22,18 +14,38 @@ def rand_guess():
         if guess > rand_int:
             guesses_left -= 1
             print('Your guess is too high!')
-            continue
+            
         if guess < rand_int:
             guesses_left -= 1
             print('Your guess is too low!')
-            continue
+            
         if guess == rand_int:
             print('Congratulations {}! You WIN!!'.format(name))
-            break
-        else:
-            if guesses_left == 0:
-                print('Sorry {}! You LOSE'.format(name))
-                break
+            guesses_left = -1
 
-generator()
-rand_guess()
+        if guesses_left == 0:
+            print('Sorry {}! You LOSE'.format(name))
+
+def main():
+
+    while True:   
+        
+        print('I am thinking of a number between 1 and 20.')
+        print('You get 6 tries to guess the number.')
+
+        rand_guess()
+
+        answer = input("Would you like to play again? Enter y to continue; anything else to quit: ")
+        
+        if answer == 'y':
+            continue
+        if answer != 'y':
+            print('Thanks for using the program! Goodbye!')
+            break      
+        
+print("Welcome to the -- Guess The Number -- game!")
+
+name = input('What is your name?: ')
+print('Hello {}.'.format(name))
+
+main()
