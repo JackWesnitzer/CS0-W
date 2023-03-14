@@ -76,6 +76,16 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab5_Loops/loops.py |
 | Notes: | All "FIXMES" done, tested several times. |
 
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: | Hissing Microphone |
+| Description: | "Output a single line. If the input string contains two consecutive occurrences of the letter s, then output hiss. Otherwise, output no hiss.." |
+| Due Date: | 3/9/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/Labs/Lab6b_Hissing_Microphone |
+| Notes: | Program outputs "hiss" or "no hiss." Screenshot proves work. |
+
 ## Lab #7
 | Name | Value |
 | --- | --- |
