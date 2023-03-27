@@ -165,6 +165,38 @@ ________________________________________________________________________________
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Kattis/kattis/count_the_vowels.py |
 | Notes: | Completed |
 
+## Kattis Assignment #7
+
+| Name | Value |
+| --- | --- |
+| Name: | Height Order |
+| Description: | "Write a program that calculates the total number of steps taken back during the ordering process for a given class of students."|
+| Due Date: | 3/13/23 |
+| Status: | Completed |
+| Location: |https://github.com/JackWesnitzer/CS0-W/blob/main/Kattis/kattis/height_order.py|
+| Notes: | Completed |
+
+## Kattis Assignment #8
+
+| Name | Value |
+| --- | --- |
+| Name: | Seven Wonders |
+| Description: | "write a program for the calculation to save everyone’s time in the 'Seven Wonders' game."|
+| Due Date: | 3/27/23 |
+| Status: | Completed |
+| Location: |https://github.com/JackWesnitzer/CS0-W/blob/main/Kattis/kattis/Seven_Wonders.py|
+| Notes: | Completed |
+
+## Kattis Assignment #9
+
+| Name | Value |
+| --- | --- |
+| Name: | I've Been Everywhere, Man |
+| Description: | "Help Alice figure out the number of cities she has visited at least once."|
+| Due Date: | 3/27/23 |
+| Status: | Completed |
+| Location: |https://github.com/JackWesnitzer/CS0-W/blob/main/Kattis/kattis/IBEM.py|
+| Notes: | Completed |
 _______________________________________________________________________________________________________________
 
 # ASSIGNMENTS
