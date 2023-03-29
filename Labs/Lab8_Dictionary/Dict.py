@@ -90,15 +90,18 @@ def main():
 
         elif option == '3':
             state = input('Enter a US state name: ')
-            code = states[state]
             if state in states:
+                code = states[state]
                 print('The capital city of {} is {}.'.format(state, capitalCity[code]))
             else:
                 print("Sorry! The US state name '{}' NOT found!".format(state))
-            
+
         # FIXME6 - complete menu option 3 - #FIXED#
 
-        # FIXME7 - handle the case where user enters invalid menu option
+        else:
+            print('Invalid input. Please try again.')
+        
+        # FIXME7 - handle the case where user enters invalid menu option - #FIXED#
 
         print('Enter to continue...')
         input()
