@@ -95,6 +95,16 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab6_Strings/stringlab.py |
 | Notes: | All "FIXMES" done, tested manually, test function shows all test cases passsed. |
+
+## Lab #8
+| Name | Value |
+| --- | --- |
+| Name: | Dicitionaries |
+| Description: | "Working with Python dictionary (dict) data structure." |
+| Due Date: | 4/10/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab8_Dictionary/Dict.py |
+| Notes: | All "FIXMES" done, all options run, returns 'not found' for invalid inputs |
 _______________________________________________________________________________________________________________
 
 # KATTIS
