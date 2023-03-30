@@ -1,11 +1,11 @@
+string = [input('Enter a registration code: ') for _ in range(1,6)]
 
-answer = 'HE GOT AWAY'
-ans2 = ""
-for i in range(1,6):
-    string = input('Enter a registration code: ')
-    if string.find('FBI') != -1:
-        ans2 = ans2 +str(i) + ' '
-if ans2 == "":
-    print(answer)
+index = []
+for i in range(len(string)):
+   
+    if "FBI" in string[i]:
+        index.append(str(i+1))
+if index:
+    print(" ".join(index))
 else:
-    print(ans2)
+    print('HE GOT AWAY!')
