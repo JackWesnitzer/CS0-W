@@ -9,3 +9,6 @@ if index:
     print(" ".join(index))
 else:
     print('HE GOT AWAY!')
+# I tried a couple of different solutions, but kattis did'nt like this one or the one that we tried to develope together.
+# Seems like the problem lies in the "range" function because kattis highlights that portion of code when I review it.
+# Not sure what I'm doing wrong but I tried my best.
