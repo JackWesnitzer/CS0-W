@@ -16,46 +16,49 @@ NOTE: All fixme's are each worth 10 points except for the FIXME1 which is worth 
 
 totalInts = 10
 
-
 def readData():
-    InputFileName = input('Enter a file name: ')
-    with open(InputFileName) as file:
-        file.read
-        data = file.read()
-        intList = data.split()
-        data2 = [int(x) for x in intList]
-        print(data2)
-    
-    # FIXME1 (20 points):
+    intList = []
+    FileName = input('Enter a file name to open: ')
+    with open(FileName) as file:
+        while True:
+            line = file.readline()
+            if(line == ""):
+                break
+            intList.append(int(line))
+    print(intList)
+    return intList
+
+    # FIXME1 (20 points): - #FIXED#
     # Prompt user to input file name
     # open the file; read each number one line at a time;
     # and store it into intList list
     # close the file
     # return the intList
-    return intList
-
-
-def sortListInAscendingOrder(lstInts):
     
-    # FIXME2
-    # sort lstInts list in ascending order
-    pass
+def sortListInAscendingOrder(lstInts):
+    lstInts.sort()
+    print(lstInts)
 
+    # FIXME2 - #FIXED#
+    # sort lstInts list in ascending order
 
 def sortListInDescendingOrder(lstInts):
-    # FIXME3
+    lstInts.sort()
+    lstInts = lstInts.reverse()
+
+    # FIXME3 - #FIXED#
     # sort lstInts in descending order
-    pass
 
 
 def printList(printFile, lstInts):
     for i in lstInts:
-        # FIXME4
+       
+        printFile.write(str(i)+'\n')
+    printFile.write('\n')
+    
+ # FIXME4 - #FIXED#
         # write each value one line at a time to file
         # handled by printFile object.
-        pass
-    printFile.write('\n')
-
 
 def main():
     
@@ -66,9 +69,11 @@ def main():
     printFile.write("Numbers entered:\n")
     printList(printFile, integers)
     # sort numbers
+
     sortListInAscendingOrder(integers)
     printFile.write("Numbers sorted in ascending order:\n")
     printList(printFile, integers)
+    
     sortListInDescendingOrder(integers)
     printFile.write("Numbers sorted in descending order:\n")
     printList(printFile, integers)
@@ -76,15 +81,23 @@ def main():
     # FIXME5 - #FIXED#
     # Call sortListInDescendingOrder function
 
-    # FIXME6
+    # FIXME6 - #FIXED#
     # Write the sorted list in descending order to the output file
 
-    # FIXME7
+    printFile.write("The largest number is:\n")
+    printFile.write(str(max(integers)))
+    printFile.write('\n')
+    printFile.write('\n') #spaces
+
+    # FIXME7 - #FIXED#
     # Print the largest number to the output file
 
-    # FIXME8
-    # Print the smallest number to the output file
+    printFile.write("The smallest number is:\n")
+    printFile.write(str(min(integers)))
 
+    # FIXME8 - #FIXED#
+    # Print the smallest number to the output file
+    
     printFile.close()
     print('Done executing the program! Check the output file for results.')
 
