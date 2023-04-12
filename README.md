@@ -105,6 +105,16 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab8_Dictionary/Dict.py |
 | Notes: | All "FIXMES" done, all options run, returns 'not found' for invalid inputs |
+
+## Lab #9
+| Name | Value |
+| --- | --- |
+| Name: | File I/O-1 |
+| Description: | "Program opens, reads, & stores numbers into sorted lists. Outputs them to a new file" |
+| Due Date: | 4/18/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab9_FileIO/fileio.py |
+| Notes: | All "FIXMES" done, writes numbers in order to a next txt document |
 _______________________________________________________________________________________________________________
 
 # KATTIS
@@ -265,4 +275,15 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Loops_Guess_The_Number/loop_guess_the_number.py |
 | Notes: | Met most requirements (85 pts), updated readme (10 pts), tested the program many times, (bonus 5 pts for continue/quit, but no stat display) total = 100 pts |
+
+## Assignment #6
+
+| Name | Value |
+| --- | --- |
+| Name: | Avion Program |
+| Description: | "Program that screens identification numbers and detects FBI operated blimps"|
+| Due Date: | 4/3/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Avion/Avion.py |
+| Notes: | Solution works fine in vscode compiler, but kattis doesn't except the answer. Read me updated. 75/100 |
 _______________________________________________________________________________________________________________
