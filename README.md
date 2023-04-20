@@ -115,6 +115,18 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab9_FileIO/fileio.py |
 | Notes: | All "FIXMES" done, writes numbers in order to a next txt document |
+
+## Lab #11
+| Name | Value |
+| --- | --- |
+| Name: | Object Oriented Programming |
+| Description: | "Using user-defined class/type, program finds area and 
+circumference of a circle." |
+| Due Date: | 4/27/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/Labs/Lab11_OOP/OOP.py |
+| Notes: | Completed all FIXME, returns radius, area and circumference from classes. |
+_________________________________________________________________________________________
 _______________________________________________________________________________________________________________
 
 # KATTIS
