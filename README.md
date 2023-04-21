@@ -298,4 +298,26 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Avion/Avion.py |
 | Notes: | Solution works fine in vscode compiler, but kattis doesn't except the answer. Read me updated. 75/100 |
+
+## Assignment #7
+
+| Name | Value |
+| --- | --- |
+| Name: | Simon Says |
+| Description: | "If a letter appears two or more times in the input, it will be replaced by a single instance of the letter "|
+| Due Date: | 4/10/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/SimonSays |
+| Notes: | Solution passes kattis, screenshot in folder, all test cases passed. |
+
+## Assignment #8
+
+| Name | Value |
+| --- | --- |
+| Name: | Falling Apart |
+| Description: | "Alice and Bob take turns picking integers, trying to get the highest total"|
+| Due Date: | 4/19/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/Falling%20Apart |
+| Notes: | Solution passes kattis, screenshot in folder, all test cases passed. |
 _______________________________________________________________________________________________________________
