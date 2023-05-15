@@ -320,4 +320,15 @@ ________________________________________________________________________________
 | Status: | Completed |
 | Location: | https://github.com/JackWesnitzer/CS0-W/tree/main/assignments/Falling%20Apart |
 | Notes: | Solution passes kattis, screenshot in folder, all test cases passed. |
+
+## Final Assignment
+
+| Name | Value |
+| --- | --- |
+| Name: | Final (Text Based Game) |
+| Description: | "I did my best to make a short text based game using some of the things I learned."|
+| Due Date: | 5/15/23 |
+| Status: | Completed |
+| Location: | https://github.com/JackWesnitzer/CS0-W/blob/main/assignments/Final/FinalTextGame.py |
+| Notes: | Has standard in/out, conditionals, lists, loops, etc. I could've coded on this forever, so it isn't finished by any means, but hopefully it meets expectations. |
 _______________________________________________________________________________________________________________
