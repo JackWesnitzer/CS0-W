@@ -103,7 +103,7 @@ def goblinRoom():
         if Attempt == "y":
             stealthCheck()
         if Attempt == "n":
-            print('\nThose goblins seem awfully scary, and if they notice you, you are probably done for. Better not to take your chances here. You carefully back up into the previous room. You will forge ahead on a different, and hopefull less goblin-filled path')
+            print('\nThose goblins seem awfully scary, and if they notice you, you are probably done for. Better not to take your chances here. You carefully back up into the previous room. You will forge ahead on a different, and hopefully less goblin-filled path')
         
 greeting()
 intro()
